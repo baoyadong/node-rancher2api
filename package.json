@@ -22,5 +22,9 @@
     "gulp-cached": "^1.1.1",
     "gulp-eslint": "^5.0.0"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/baoyadong/node-rancher2api"
+  }
 }
