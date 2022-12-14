@@ -1,0 +1,26 @@
+{
+  "name": "node-rancher2api",
+  "version": "1.0.0",
+  "description": "Rancher2 API library for node",
+  "scripts": {
+    "lint": "eslint",
+    "start": "gulp"
+  },
+  "main": "src/index.js",
+  "author": {
+    "name": "xuzhudong",
+    "email": "451547014@qq.com"
+  },
+  "dependencies": {
+    "node-fetch": "^2.3.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.15.3",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.16.0",
+    "gulp": "^4.0.0",
+    "gulp-cached": "^1.1.1",
+    "gulp-eslint": "^5.0.0"
+  },
+  "license": "MIT"
+}
