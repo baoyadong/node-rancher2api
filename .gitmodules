@@ -1,0 +1,3 @@
+[submodule "web3nft"]
+	path = web3nft
+	url = https://github.com/baoyadong/web3nft
